@@ -1,0 +1,1 @@
+In this assignment,I created a github account then a public repository.I then created a folder and added three files student-info.txt,report.md and index.html where I typed in the necessary details.
